@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/tae/.cache/pypoetry/virtualenvs/ds-bootcamp-udemy-CtBcTMMe-py3.8"
+    "python.pythonPath": "/home/tae/.cache/pypoetry/virtualenvs/ds-bootcamp-udemy-CtBcTMMe-py3.8",
+    "jupyter.jupyterServerType": "local"
 }
